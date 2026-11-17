@@ -45,6 +45,18 @@ activities = {
         "max_participants": 20,
         "participants": []
     },
+    "Tennis Team": {
+        "description": "Practice tennis skills and compete in matches",
+        "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Swimming Club": {
+        "description": "Improve swimming techniques and participate in team practices",
+        "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 18,
+        "participants": []
+    },
     "Art Club": {
         "description": "Explore drawing, painting, and other visual art techniques",
         "schedule": "Wednesdays, 3:30 PM - 4:30 PM",
